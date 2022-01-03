@@ -1,6 +1,6 @@
 import {useState} from 'react';
 import './layout.css';
-import logo from '../assets/img/logo2.png'
+import logo from '../assets/img/logo.png'
 import Output from "./output";
 
 const Layout = (props) => {
